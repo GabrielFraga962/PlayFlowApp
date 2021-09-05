@@ -1,4 +1,4 @@
-# memories_app
-Aplicação feita para registrar o as suas memórias e eventos do dia a dia
+# PlayFlowApp
+Aplicação feita para registrar e organizar boletos
 
 > Status do Projeto: Em desenvolvimento :warning:
