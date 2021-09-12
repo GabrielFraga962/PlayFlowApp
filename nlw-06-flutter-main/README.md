@@ -67,13 +67,3 @@
    $ flutter run
    ```
 
----
-
-   >Esse projeto foi desenvolvido com ❤️ na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
-   **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
-
----
-
-   <p align="center">
-      <img alt="NLW" title="PayFlow" src=".github/nlw.png" />
-   </p>
