@@ -66,4 +66,8 @@
    - Inicie o app: 
    $ flutter run
    ```
+---
 
+# Licença 📑
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
